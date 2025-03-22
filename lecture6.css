@@ -1,0 +1,21 @@
+#heading {
+    color: rgb(170, 81, 59);
+}
+
+h1{
+    color: rgb(74, 74, 220);
+    background-color: lavenderblush;
+}
+h2{
+    color: rgb(25, 110, 82);
+}
+
+body {
+    background-color: palevioletred;
+}
+
+button {
+    background-color:darkmagenta ;
+    color: antiquewhite;
+}
+

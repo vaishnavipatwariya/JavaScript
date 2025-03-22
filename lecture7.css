@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(235, 205, 96);
+}
+
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(110, 116, 172);
+    color: aliceblue;
+    border: 1px solid black;
+}
